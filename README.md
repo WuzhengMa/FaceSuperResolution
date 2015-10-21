@@ -16,6 +16,7 @@ In this repository, Gauss Seidel Method and a FPGA running environment are used 
 
 For other implementations(e.g. analytic method and iterative method named Conjugate Gredient Method with a CPU running environment) on solving the linear equation, check out the link above.
 
+A database for test images will not be included in this repository.
 
 ### Makefile command for different compilation purposes
 
